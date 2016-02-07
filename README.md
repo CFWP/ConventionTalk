@@ -10,6 +10,8 @@ This will load the slides on-screen.
 In case the slides are not loaded properly, press the *raw* button.
 The slides are then downloaded to your usual local download-folder. 
 
+In case you directly want to download the slides directly: press the *Download Zip* button above.
+
 
 ## Reference
 Peeters, C.F.W. (2016). 

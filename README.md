@@ -14,6 +14,8 @@ In case you directly want to download the slides directly: press the *Download Z
 
 
 ## A Terse Explanation to the Slides
+The slides were used to shortly present my dissertation research.
+This dissertation (Peeters, 2012) received the 2015 Anne Anastasi Distinguished Dissertation Award
 
 1. Titlepage
 2. The shortest possible summary of the dissertation: Its a layer-cake (also see Slide 8). 
@@ -31,9 +33,15 @@ MORE EXPLANATION
 13. Acknowledgements: Wife and collaborator (not necessarily in that order).
 
 
-## Reference
+## References
 Peeters, C.F.W. (2016). 
 Bayesian Constrained-Model Selection and Factor Analytic Modeling. 
 *The Score*, XX, XX.
 URL: XXX
+
+Peeters, C.F.W. (2012). 
+*Bayesian Exploratory and Confirmatory Factor Analysis: Perspectives on Constrained-Model Selection*.
+(Unpublished PhD thesis) Dept. of Methodology & Statistics, Utrecht University, Utrecht, the Netherlands.
+Available from: http://dspace.library.uu.nl/handle/1874/240966.
+
 

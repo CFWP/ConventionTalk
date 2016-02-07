@@ -20,14 +20,14 @@ This dissertation (Peeters, 2012) received the 2015 Anne Anastasi Distinguished 
 1. Titlepage
 2. The shortest possible summary of the dissertation: Its a layer-cake (also see Slide 8). 
 3. The dissertation considers the factor model, which comes in two general flavors: Eploratory and Confirmatory.
-MORE EXPLANATION
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+MORE EXPLANATION (short statement differences EFA and CFA)
+4. Explain slide 4 (contribution to EFA: dimensionality selection; shows what happens when fitting a 5-factor model to data generated under 3 latent factors. Space rips apart. Have Bayesian approach that copes with this.)
+5. Explain slide 5 (traditional specification CFA)
+6. Explain slide 6 (explain shortly how Bayes factor works for this situation.)
+7. Explain slide 7 (What does it allow: directly compare a multitude of competing inequality-constrained structures. Example of two here)
+8. Explain slide 8 (Back to the cake: The layers are formed by.... Top layer > applications)
+9. Explain slide 9 (One application considers MBS)
+10. Explain slide 10 (Another application considers Chimpanzee handedness)
 11. Acknowledgements: Supervisors.
 12. Acknowledgements: People who provided data for the applications in the dissertation.
 13. Acknowledgements: Wife and collaborator (not necessarily in that order).

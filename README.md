@@ -15,7 +15,8 @@ In case you directly want to download the slides directly: press the *Download Z
 
 ## A Terse Explanation to the Slides
 The slides were used to shortly present my dissertation research.
-This dissertation (Peeters, 2012) received the 2015 Anne Anastasi Distinguished Dissertation Award
+This dissertation (Peeters, 2012) received the 2015 Anne Anastasi Distinguished Dissertation Award.
+Below a terse explanation to each slide, giving an idea of the storyline as used in the presentation.
 
 1. Titlepage
 2. The shortest possible summary of the dissertation: Its a layer-cake (also see Slide 8). 

@@ -19,6 +19,16 @@ In case you directly want to download the slides directly: press the *Download Z
 2. The shortest possible summary of the dissertation: Its a layer-cake (also see Slide 8). 
 3. The dissertation considers the factor model, which comes in two general flavors: Eploratory and Confirmatory.
 MORE EXPLANATION
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11. Acknowledgements: Supervisors.
+12. Acknowledgements: People who provided data for the applications in the dissertation.
+13. Acknowledgements: Wife and collaborator (not necessarily in that order).
 
 
 ## Reference

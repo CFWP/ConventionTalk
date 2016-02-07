@@ -16,7 +16,9 @@ In case you directly want to download the slides directly: press the *Download Z
 ## A Terse Explanation to the Slides
 
 1. Titlepage
-2. 
+2. The shortest possible summary of the dissertation: Its a layer-cake (also see Slide 8). 
+3. The dissertation considers the factor model, which comes in two general flavors: Eploratory and Confirmatory.
+MORE EXPLANATION
 
 
 ## Reference

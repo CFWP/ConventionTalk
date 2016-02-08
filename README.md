@@ -1,3 +1,10 @@
+<head>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+</head>
+
+
 **ConventionTalk**
 ---------------
 
@@ -25,9 +32,9 @@ Below you will find a terse explanation to each slide, giving an idea of the sto
 3. The dissertation considers the factor model, essentially a multivariate regression model with unobserved (latent) predictors. 
 Factor analysis (FA) assumes that a vector of observed items consists of correlated variables that can be grouped into a lower number of latent factors.
 FA comes in two general flavors: Exploratory and Confirmatory.
-In exploratory factor analysis (EFA) both the dimensionality of the latent vector and the meaning of latent factors are unknown. 
+In exploratory factor analysis (EFA) both the dimensionality of the latent vector and the meaning of latent factors are unknown (left-hand figure). 
 In the exploratory sense, FA is a theory-generating technique used for the identification of meaningful latent factors. Confirmatory FA (CFA) is a theory-testing technique.
-An a priori factor structure is assumed, with a given number of latent variables, with a pre-specified loadings matrix in which exclusion constraints indicate which variables are indicators of which latent factor(s), and with possibly correlated factors and error variances.
+An a priori factor structure is assumed, with a given number of latent variables, with a pre-specified loadings matrix in which exclusion constraints indicate which variables are indicators of which latent factor(s), and with possibly correlated factors and error variances (right-hand figure).
 The $\lambda$ parameter indicates a factor loading which is essentially a regression parameter.
 
 4. The dissertation first seeks to contribute to EFA-efforts by proposing a Bayesian model-selection approach to the selection of the optimal dimension of the latent vector.
@@ -55,12 +62,12 @@ The concentric circles represent the (location of the) posterior probability mas
 Two competing inequality-constrained models are then considered. 
 Model 1 represents the feasible space (in grey) defined by $\lambda_{jk} > |\lambda_{jk'}|$. 
 Model 2 represents the feasible space (in blue) defined by $\lambda_{jk'} > |\lambda_{jk}|$.
-Both models are of the same complexity as for both models the feasible space comprises $1/4$ of the total parameter space.
+Both models are of the same complexity as for both models the feasible space comprises \[ 1/4 \] of the total parameter space.
 The posterior mass, however, is mostly located in the feasible region defined by Model 1. 
 Assume for simplicity that 7/8 of the posterior mass is located in the feasible region of Model 1 and
 that 1/8 of the posterior mass is located in the feasible region of Model 2. 
 The Bayes factor (the main Bayesian model selection criterion) for an inequality-constrained model to the unconstrained model boils down to the ratio of the posterior probability mass over the prior probability mass satisfying the constraints. 
-Hence, the Bayes factor of Model 1 to the unconstrained model, $B_{10} = (7/8) ÷ (1/4) = 7/2$. 
+Hence, the Bayes factor of Model 1 to the unconstrained model, \(B_{10} = (7/8) ÷ (1/4) = 7/2 \). 
 The Bayes factor of Model 2 to the unconstrained model, $B_{20} = (1/8) ÷ (1/4) = 1/2$. 
 From these Bayes factors we may find the Bayes factor of model 1 to Model 2 as: $B_{12} = (7/2)÷(1/2) = 7$. 
 This conveys that there is positive evidence of Model 1 against Model 2, or, loosely speaking, Model 1 is seven times as likely for the data at hand than Model 2.

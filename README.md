@@ -1,9 +1,3 @@
-<head>
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
-</head>
-
 
 **ConventionTalk**
 ---------------
@@ -62,12 +56,12 @@ The concentric circles represent the (location of the) posterior probability mas
 Two competing inequality-constrained models are then considered. 
 Model 1 represents the feasible space (in grey) defined by $\lambda_{jk} > |\lambda_{jk'}|$. 
 Model 2 represents the feasible space (in blue) defined by $\lambda_{jk'} > |\lambda_{jk}|$.
-Both models are of the same complexity as for both models the feasible space comprises \[ 1/4 \] of the total parameter space.
+Both models are of the same complexity as for both models the feasible space comprises $1/4$ of the total parameter space.
 The posterior mass, however, is mostly located in the feasible region defined by Model 1. 
 Assume for simplicity that 7/8 of the posterior mass is located in the feasible region of Model 1 and
 that 1/8 of the posterior mass is located in the feasible region of Model 2. 
 The Bayes factor (the main Bayesian model selection criterion) for an inequality-constrained model to the unconstrained model boils down to the ratio of the posterior probability mass over the prior probability mass satisfying the constraints. 
-Hence, the Bayes factor of Model 1 to the unconstrained model, \(B_{10} = (7/8) ÷ (1/4) = 7/2 \). 
+Hence, the Bayes factor of Model 1 to the unconstrained model, $B_{10} = (7/8) ÷ (1/4) = 7/2$. 
 The Bayes factor of Model 2 to the unconstrained model, $B_{20} = (1/8) ÷ (1/4) = 1/2$. 
 From these Bayes factors we may find the Bayes factor of model 1 to Model 2 as: $B_{12} = (7/2)÷(1/2) = 7$. 
 This conveys that there is positive evidence of Model 1 against Model 2, or, loosely speaking, Model 1 is seven times as likely for the data at hand than Model 2.
@@ -115,5 +109,3 @@ Peeters, C.F.W. (2012).
 *Bayesian Exploratory and Confirmatory Factor Analysis: Perspectives on Constrained-Model Selection*.
 (Unpublished PhD thesis) Dept. of Methodology & Statistics, Utrecht University, Utrecht, the Netherlands.
 Available from: http://dspace.library.uu.nl/handle/1874/240966.
-
-

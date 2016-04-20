@@ -2,7 +2,7 @@
 **ConventionTalk**
 ---------------
 
-This repository contains the slides of my Division 5 (Quantitative & Qualitative Methods) Awards Symposium Invited address at the American Psychological Association 2015 Annual Convention in Toronto. These slides support a summary of my dissertation work to be published in The Score (see reference below).
+This repository contains the slides of my Division 5 (Quantitative & Qualitative Methods) Awards Symposium Invited address at the American Psychological Association 2015 Annual Convention in Toronto. These slides support a summary of my dissertation work as published in the April 2016 issue of The Score (see references below).
 
 
 ## Retrieving the Slides
@@ -104,8 +104,8 @@ It was found that the clustering of tasks could be explained by factors represen
 ## References
 Peeters, C.F.W. (2016). 
 Bayesian Constrained-Model Selection and Factor Analytic Modeling. 
-*The Score*, XX, XX.
-URL: XXX
+*The Score*, April Issue.
+Available from: http://www.apadivisions.org/division-5/publications/score/2016/04/factor-analytic-modeling.aspx.
 
 Peeters, C.F.W. (2012). 
 *Bayesian Exploratory and Confirmatory Factor Analysis: Perspectives on Constrained-Model Selection*.
